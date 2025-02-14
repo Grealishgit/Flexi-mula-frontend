@@ -1,0 +1,5 @@
+#clone the repo https://github.com/Grealishgit/Flexi-mula-frontend
+install dependancies
+``npm i``
+run the poject 
+``npm run dev``
