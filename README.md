@@ -8,12 +8,12 @@
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
   
   - Clone the repo https://github.com/Grealishgit/Flexi-mula-frontend
-  - Install dependancies.
+  - Install dependencies.
   
    ``npm i``
   
- - or
+ - or use this command to install dependecies
     ``npm install``
 
-  -Run the poject.
+  - Run the poject.
   ``npm run dev``
